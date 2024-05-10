@@ -5,7 +5,7 @@ https://github.com/JoaoVitorBranco/BIPy
 
 ## Como usar
 Dentro da pasta windows, execute o programa BIPy.exe. Com o programa em execução, abra a memória de dados e siga o passo a passo a seguir.
-Obs.: Lmebre-se que os valores no simulador são de base hexadecimal.
+Obs.: Lembre-se que os valores no simulador são de base hexadecimal.
 
 ### Escolha o algoritmo
 Para escolher o algoritmo, basta inserir um número no endereço 000 da memória de dados que corresponde ao algoritmo desejado:
