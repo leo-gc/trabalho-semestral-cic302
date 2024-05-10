@@ -1,20 +1,19 @@
 # Trabalho Semestral CIC302
-Trabalho semestral passado pelo professor Nuncio Perrella na matéria CIC302 (Sistemas Digitais e Arquitetura de Computadores) do Instituto Mauá de Tecnologia, que tem como objetivo o desenvolvimento de algoritmos no simulador BIPy, o qual simula arquitetura de processador BIP.
-O BIPy foi desenvolvido por alunos do curso de Engenharia da Computação. Segue abaixo seu repositório original:
-https://github.com/JoaoVitorBranco/BIPy
+Trabalho semestral passado pelo professor Nuncio Perrella na matéria CIC302 (Sistemas Digitais e Arquitetura de Computadores) do Instituto Mauá de Tecnologia, que tem como objetivo o desenvolvimento de algoritmos no simulador BIPy, o qual simula arquitetura de processador BIP.  
+O [BIPy](https://github.com/JoaoVitorBranco/BIPy) foi desenvolvido por alunos do curso de Engenharia da Computação.
 
 ## Como usar
-Dentro da pasta windows, execute o programa BIPy.exe. Com o programa em execução, abra a memória de dados e siga o passo a passo a seguir.
+Dentro da pasta windows, execute o programa BIPy.exe. Com o programa em execução, abra a memória de dados e siga o passo a passo a seguir.  
 Obs.: Lembre-se que os valores no simulador são de base hexadecimal.
 
 ### Escolha o algoritmo
-Para escolher o algoritmo, basta inserir um número no endereço 000 da memória de dados que corresponde ao algoritmo desejado:
-0001: Divisão de inteiros
-0002: Multiplicação de inteiros
-0003: 
-0004: Fatorial
-0005:
-0006:
+Para escolher o algoritmo, basta inserir um número no endereço 000 da memória de dados que corresponde ao algoritmo desejado:  
+0001: Divisão de inteiros  
+0002: Multiplicação de inteiros  
+0003:   
+0004: Fatorial  
+0005:  
+0006:  
 
 ### Insira os dados desejados
 
