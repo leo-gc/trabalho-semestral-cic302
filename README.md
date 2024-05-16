@@ -26,5 +26,9 @@ Insira os valores do multiplicando e multiplicador nos endereços 020 e 021. Ap�
 #### Fatorial
 Insira o número do qual se deseja obter o fatorial no endereço 040. Após o processamento, o resultado estará armazenado no acumulador e no endereço 042.
 
+### Execute o algoritmo
+Para executar um algoritmo, clique no botão "RESET" para reiniciar o processador e, após inserir os dados, clique no botão "HALT" para iniciar a execução.  
+O botão "STEP" pode ser usado para avançar um ciclo de clock do processador.
+
 ### Aviso
 Alterar endereços que não são destinados a entrada de dados pelo usuário pode impedir o funcionamento dos algoritmos.
